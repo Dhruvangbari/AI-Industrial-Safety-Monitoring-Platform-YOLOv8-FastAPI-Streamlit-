@@ -1,0 +1,1 @@
+AI Industrial Safety Monitoring Platform (YOLOv8 + FastAPI + Streamlit)

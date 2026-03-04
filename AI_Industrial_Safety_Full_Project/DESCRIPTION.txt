@@ -1,0 +1,1 @@
+Enterprise-grade AI industrial safety monitoring system with multi-camera support, helmet and mask compliance detection, REST API backend, and real-time analytics dashboard.
