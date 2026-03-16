@@ -1,5 +1,6 @@
 
 # AI Industrial Safety Monitoring Platform
+
 # 🏭 AI Industrial Safety Monitoring Platform
 
 An enterprise-level AI powered safety monitoring system designed to automatically detect workplace safety violations using computer vision.
