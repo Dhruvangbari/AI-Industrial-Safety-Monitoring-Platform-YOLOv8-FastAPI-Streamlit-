@@ -23,6 +23,7 @@ Automatically identifies safety violations and logs them for analysis.
 
 ---
 
+
 ### 🎥 Multi Camera Monitoring
 Supports multiple video streams including:
 
